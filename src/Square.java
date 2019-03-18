@@ -1,7 +1,3 @@
-package Lab09_Minesweeper;
-
-import Library.StdDraw;
-
 import java.awt.*;
 
 /**

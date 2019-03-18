@@ -1,6 +1,3 @@
-package Lab09_Minesweeper;
-import Library.StdDraw;
-
 import java.awt.*;
 import java.util.InputMismatchException;
 import java.util.Scanner;
